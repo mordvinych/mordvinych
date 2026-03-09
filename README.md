@@ -36,12 +36,9 @@ alt="GitHub" />
 ## Selected Projects
 | Project | Stack | Result | Link |
 |---|---|---|---|
-| Bot for booking | Python, Aiogram, FastAPI | Онлайн-запись и уведомления | [Repo](https://github.com/mordvinych/
-scheduler_beauty_bot) |
-| AI natal card | Python, Aiogram, AI | ИИ анализ натальной карты | [Repo](https://github.com/mordvinych/AI-Bot-
-natcard) |
-| Parser BOT | Python, Aiogram, Telethon | Автоматизация поиска работы | [Repo](https://github.com/mordvinych/
-parser_offers_bot) |
+| Bot for booking | Python, Aiogram, FastAPI | Онлайн-запись и уведомления | [Repo](https://github.com/mordvinych/scheduler_beauty_bot) |
+| AI natal card | Python, Aiogram, AI | ИИ анализ натальной карты | [Repo](https://github.com/mordvinych/AI-Bot-natcard) |
+| Parser BOT | Python, Aiogram, Telethon | Автоматизация поиска работы | [Repo](https://github.com/mordvinych/parser_offers_bot) |
 
 ## Contact
 - Telegram: [@mvh_72](https://t.me/mvh_72)
